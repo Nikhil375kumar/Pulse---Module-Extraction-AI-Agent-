@@ -137,7 +137,3 @@ pulse_ai_module_extractor/
 ---
 
 
-=======
-# Pulse---Module-Extraction-AI-Agent-
-Pulse - Module Extraction AI Agent 
->>>>>>> 60bd751160b57bb2ca5c8be260a3b21c61c8c9b0
